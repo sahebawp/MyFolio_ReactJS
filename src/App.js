@@ -26,11 +26,11 @@ function App() {
         {/* <!-- Hero sectio */}
         <div class="MainSection mx-2 my-5 px-64 py-10  flex justify-between items-center flex-row-reverse bg-[#8C8C8C] shadow-2xl rounded-md">
             <span>
-                <img class="SideImage h-[60%] w-[80%]" src="./images/side_image_new2.webp" alt="" />
+                <img class="SideImage  h-[60%] w-[80%]" data-te-lazy-load-init data-te-lazy-delay="1500" src="./images/side_image_new2.webp" alt="" />
             </span>
             <span class="mx-4 w-1/2 flex justify-center flex-col items-center">
                 <div class=" place-self-end ">
-                    <img class="h-1/2 w-1/2 border-solid border-4 border-white rounded-lg shadow-2xl " src='./images/Profile_image.jpeg'>
+                    <img class="h-1/2 w-1/2 border-solid border-4 border-white rounded-lg shadow-2xl " data-te-lazy-load-init data-te-lazy-delay="1500" src='./images/Profile_image.jpeg'>
                     </img>
                 </div>
                 <div class="p-5 place-self-start">
@@ -51,7 +51,7 @@ function App() {
                     class="w-[250px] max-h-[100%] font-mono  bg-[#D1D1D1] border border-gray-200 rounded-2xl shadow-2xl dark:bg-gray-800 dark:border-gray-700">
                     <div class="px-8 py-8">
                         <a href="#">
-                            <img class="rounded-t-lg w-full  h-full" src="./images/coding.png" alt="" />
+                            <img class="rounded-t-lg w-full  h-full" data-te-lazy-load-init data-te-lazy-delay="1500" src="./images/coding.png" alt="" />
                         </a>
                     </div>
                     <div class="px-3 py-3">
@@ -80,7 +80,7 @@ function App() {
                     class="max-w-[250px] max-h-[100%] my-10 font-mono  bg-[#D1D1D1] border border-gray-200 rounded-2xl shadow-2xl dark:bg-gray-800 dark:border-gray-700">
                     <div class="px-8 py-8">
                         <a href="#">
-                            <img class="rounded-t-lg w-full  h-full" src="./images/working-time.png" alt="" />
+                            <img class="rounded-t-lg w-full  h-full" data-te-lazy-load-init data-te-lazy-delay="1500" src="./images/working-time.png" alt="" />
                         </a>
                     </div>
 
@@ -112,7 +112,7 @@ function App() {
                     class="w-[250px] max-h-[100%] bg-[#D1D1D1] font-mono border border-gray-200 rounded-2xl shadow-2xl dark:bg-gray-800 dark:border-gray-700">
                     <div class="px-8 py-8">
                         <a href="#">
-                            <img class="rounded-t-lg w-full  h-full" src="images/gamer.png" alt="" />
+                            <img class="rounded-t-lg w-full  h-full" data-te-lazy-load-init data-te-lazy-delay="1500" src="images/gamer.png" alt="" />
                         </a>
                     </div>
                     <div class="px-3 py-3">
