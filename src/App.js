@@ -9,7 +9,7 @@ function App() {
         <div class="Container h-full w-full bg-[#C1C1C1] justify-center">
         <nav class="bg-[#353535] text-white py-2 flex items-center">
             <ul class="nav-links flex flex-row px-4 justify-end space-x-4 items-end max-h-[100%]]">
-                <li class="mr-4"><a href="#" class="hover:text-yellow-400">Home</a></li>
+        
                 <li>
                     <img class="w-10 h-10 hover:cursor-pointer" src="./images/app-development.png " alt="" />
                 </li>
