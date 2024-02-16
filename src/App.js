@@ -28,8 +28,8 @@ function App() {
             <span>
                 <img class="SideImage  h-[60%] w-[80%]" data-te-lazy-load-init data-te-lazy-delay="1500" src="./images/side_image_new2.webp" alt="" />
             </span>
-            <span class="w-1/2 flex justify-center flex-col items-center">
-                <div class=" place-self-end ">
+            <span class="w-1/2 flex  justify-center flex-col items-center">
+                <div class=" pl-52 ">
                     <img class="h-1/2 w-1/2 border-solid border-4 border-white rounded-lg shadow-2xl " data-te-lazy-load-init data-te-lazy-delay="1500" src='./images/Profile_image.jpeg'>
                     </img>
                 </div>
