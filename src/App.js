@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <div class="Container h-full w-full bg-[#C1C1C1] justify-center">
+        <div class="Container h-full w-[1920px] bg-[#C1C1C1] justify-center">
         <nav class="bg-[#353535] text-white py-2 flex items-center">
             <ul class="nav-links flex flex-row px-4 justify-end space-x-4 items-end max-h-[100%]]">
         
@@ -28,7 +28,7 @@ function App() {
             <span>
                 <img class="SideImage  h-[60%] w-[80%]" data-te-lazy-load-init data-te-lazy-delay="1500" src="./images/side_image_new2.webp" alt="" />
             </span>
-            <span class="mx-4 w-1/2 flex justify-center flex-col items-center">
+            <span class="w-1/2 flex justify-center flex-col items-center">
                 <div class=" place-self-end ">
                     <img class="h-1/2 w-1/2 border-solid border-4 border-white rounded-lg shadow-2xl " data-te-lazy-load-init data-te-lazy-delay="1500" src='./images/Profile_image.jpeg'>
                     </img>
