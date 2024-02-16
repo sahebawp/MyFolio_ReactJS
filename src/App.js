@@ -5,8 +5,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-        <div class="Container h-full w-[1920px] bg-[#C1C1C1] justify-center">
+    <div className="App h-full w-sceen flex overflow-hidden">
+        <div class="Container  bg-[#C1C1C1] ">
         <nav class="bg-[#353535] text-white py-2 flex items-center">
             <ul class="nav-links flex flex-row px-4 justify-end space-x-4 items-end max-h-[100%]]">
         
@@ -139,7 +139,7 @@ function App() {
             </div>
         </div>
 
-        <div class="container max-h-full max-w-full block py-10 flex-row justify-center items-center">
+        <div class="container inline-block py-10 justify-center items-center">
             <div class="flex items-center justify-center">
                 <a href="https://www.youtube.com/@fighterchulbul6260">
                     <div class="mx-5 flex flex-col group">
