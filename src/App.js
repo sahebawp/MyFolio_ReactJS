@@ -35,7 +35,7 @@ function App() {
                 </div>
                 <div class="p-5 place-self-start">
                     <h6 class="text-xl font-mono text-white font-semibold  ">
-                        Aspiring Web Developer! Working as Automation Engineer in Amazon
+                        QA Automation Engineer in Amazon, Experienced in Python, Selenium, Pytest, Robot Framework
                     </h6>
                 </div>
                 
