@@ -30,7 +30,7 @@ function App() {
             </div>
             <div className="p-5">
               <h6 className="text-xl font-mono text-white font-semibold text-center lg:text-left">
-                Testing Associate in Amazon, Experienced in Python, Selenium, Pytest, Robot Framework
+              "Testing Associate at Amazon | Python, Selenium, Pytest, Robot Framework Expert"
               </h6>
             </div>
           </span>
